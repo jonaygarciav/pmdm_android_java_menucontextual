@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MenuContextual</string>
+    <string name="txt_tv_saludo">Hello World!</string>
+    <string name="opcion1">Opcion 1</string>
+    <string name="opcion2">Opcion 2</string>
+    <string name="opcion3">Opcion 3</string>
 </resources>
