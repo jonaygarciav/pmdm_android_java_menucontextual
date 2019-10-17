@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        tvSaludo = (TextView)findViewById(R.id.tv_saludo);
+        tvSaludo = findViewById(R.id.tv_saludo);
         registerForContextMenu(tvSaludo);
     }
 
